@@ -1,1 +1,2 @@
-# cdn-docs
+# Initial page
+
